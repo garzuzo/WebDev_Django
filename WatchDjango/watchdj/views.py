@@ -57,7 +57,7 @@ class HomePageView(View):
   </div>
 </nav>
 
-                <h1>Wristwatches</h1>
+                    <h1>Wristwatches</h1>
                 <p>The passion for everybody</p>
                
                 
@@ -71,21 +71,21 @@ class HomePageView(View):
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://images.pexels.com/photos/580708/pexels-photo-580708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"class="d-block w-100" alt="...">
+        <img src="https://images.pexels.com/photos/374155/pexels-photo-374155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=640"class="d-block w-100">
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://images.pexels.com/photos/580708/pexels-photo-580708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="d-block w-100" alt="...">
+        <img src="https://images.pexels.com/photos/374155/pexels-photo-374155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=640" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="https://images.pexels.com/photos/580708/pexels-photo-580708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="d-block w-100" alt="...">
+        <img src="https://images.pexels.com/photos/374155/pexels-photo-374155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=640" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
